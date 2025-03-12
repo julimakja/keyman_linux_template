@@ -14,6 +14,6 @@ TEMPLATE/
 │   └── xml_properties.kps
 └── build/
 ```
-Everything in the files is either commented or has it's value replaced with instructions telling you what to do.
+Everything in the files is either commented or has its value replaced with instructions telling you what to do.
 
 I might add more documentation in the future.
