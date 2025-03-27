@@ -1,0 +1,8 @@
+[Project]
+Name=NAME OF LANGUAGE
+Version=VERSION NUMBER
+Description=DESCRIBE THE KEYBOARD
+Author=YOURNAME
+MinKeymanVersion=14.0
+MaxKeymanVersion=latest
+

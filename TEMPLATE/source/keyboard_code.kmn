@@ -1,0 +1,15 @@
+
+c with name "PUT NAME HERE"
+store(&VERSION) '10.0'
+store(&NAME) 'PUT NAME HERE'
+store(&COPYRIGHT) 'Copyright © YOU'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'PUT TARGET OS HERE'
+store(&BITMAP) '..\source\LINK TO ICON'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
+
+c put keyman code here

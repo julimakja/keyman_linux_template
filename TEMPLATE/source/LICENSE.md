@@ -1,0 +1,1 @@
+*Enter your license here. Not sure what to put? try (this website)[https://choosealicense.com/licenses/] (I, WAX RUSH, AM NOT AFFILIATED IN ANY WAY, NOR DO I ENDORSE THE CONTENTS OF ANY LINKED WEBSITES OR RESOURCES)*

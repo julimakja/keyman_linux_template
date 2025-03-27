@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>17.0.329.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>README.md</ReadMeFile>
+    <LicenseFile>LICENSE.md</LicenseFile>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+    <Icon>..\source\PUT ICON NAME HERE</Icon> <!-- EDIT THIS LINE; put path to icon in the same folder as this file (source) -->
+  </StartMenu>
+
+  <Info>
+    <Name URL="">PUT NAME HERE</Name> <!-- EDIT THIS LINE-->
+    <Copyright URL="">Copyright © 2025 YOU</Copyright> <!-- EDIT THIS LINE-->
+    <Author URL="">YOUR NAME</Author> <!-- EDIT THIS LINE-->
+    <Description URL="">PUT DESCRIPTION HERE</Description> <!-- EDIT THIS LINE-->
+    <Version URL="">1.0</Version>
+  </Info>
+
+  <Files>
+    <File>
+      <Name>..\build\PUT KEYBOARD NAME HERE</Name> <!-- EDIT THIS LINE; make sure you put .kmx at the end -->
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>README.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+    <File>
+      <Name>LICENSE.md</Name>
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.md</FileType>
+    </File>
+
+    <File>
+      <Name>..\source\PUT ICON NAME HERE</Name> <!-- EDIT THIS LINE; make sure it ends with .ico -->
+      <Description></Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+  </Files>
+
+  <Keyboards>
+    <Keyboard>
+      <Name>PUT NAME OF KEYBOARD HERE</Name> <!-- EDIT THIS LINE; this can include non-ASCII symbols -->
+      <ID>PUT NAME OF KEYBOARD HERE **ONLY ASCII**</ID> <!-- EDIT THIS LINE: make sure the name matches the one in the Language ID tag below -->
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="PUT ABBREVIATION HERE (ex. 'en' = English)">PUT NAME OF KEYBOARD HERE </Language> <!-- EDIT THIS LINE; 
+The name of the keyboard *must* be ASCII, reccomended to be lowercase-->
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+
+  <Strings/>
+</Package>
